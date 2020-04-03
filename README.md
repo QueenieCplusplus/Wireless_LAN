@@ -22,7 +22,9 @@ SOHO communications
                PCs
              Smart Phones
 
+# SSID
 
+it is Service Set Identifier, showing the name in WLAN, it can be 2 ~ 32 characters in Length. All devices shall have this SSID to communicate with others in WLAN.
 
 # IEEE 802.11
 
