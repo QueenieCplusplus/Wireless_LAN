@@ -36,4 +36,4 @@ it is used for "hight-rate". Not only 1 & 2 Mbps, it also provides speed of 5.5 
 
 # Wi-Fi
 
-it is Wireless Fidelity (保真)！ Wi-Fi means the certificate for IEEE 802.11b.
+it is Wireless Fidelity (保真)！ Wi-Fi means the certificate for IEEE 802.11b. This certificate is governed by WECA, Wireless Ethernet Compatibilty Alliance.
