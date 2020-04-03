@@ -32,4 +32,4 @@ plz ignore the watermark in this graphic
 
 # IEEE 802.11b 
 
-it is used for "hight-rate".
+it is used for "hight-rate". Not only 1 & 2 Mbps, it also provides speed of 5.5 & 11 Mbps.
