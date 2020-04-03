@@ -19,7 +19,7 @@ SOHO communications
 
                                     Router or AP
               Clients ----------- AP(Access Point)------------WLAN
-               PCs
+             PCs|Stations
              Smart Phones
              
  ![wlans](https://www.researchgate.net/profile/Pablo_Salvador4/publication/263510329/figure/fig2/AS:667596538007552@1536178826046/Scenario-WLAN-with-n-v-voice-stations-and-n-d-data-stations.ppm)
