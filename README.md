@@ -14,6 +14,16 @@ public access
 
 SOHO communications
 
+# WLANs Architecture
+
+
+                                    Router or AP
+              Clients ----------- AP(Access Point)------------WLAN
+               PCs
+             Smart Phones
+
+
+
 # IEEE 802.11
 
 it implements wireless LANs at speed of 1Mbps and 2 Mbps using DSSS (Direct Sequence Spread Spectrum) and Frequency.
